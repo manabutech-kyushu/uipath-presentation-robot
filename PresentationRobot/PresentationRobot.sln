@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PresentationRobot", "PresentationRobot", "{1B267FA2-D9D3-4948-BFA4-120D74095080}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PresentationRobot", "PresentationRobot\PresentationRobot\PresentationRobot.csproj", "{84303236-D845-4826-A898-B818BC19F76B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PresentationRobot.Activities", "PresentationRobot\PresentationRobot.Activities\PresentationRobot.Activities.csproj", "{FE7244B4-62B5-4007-AC8A-D1E4D60E50AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PresentationRobot.Activities.Design", "PresentationRobot\PresentationRobot.Activities.Design\PresentationRobot.Activities.Design.csproj", "{D8B95356-2DE4-45CC-9067-3629AF2B0A64}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shared", "Shared", "{495AB173-2896-4C5E-AABD-B561FA443F1F}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "UiPath.Shared.Activities", "Shared\UiPath.Shared.Activities\UiPath.Shared.Activities.shproj", "{4546856D-EA50-45C6-9419-EEEACB5A80AA}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "UiPath.Shared.Activities.Design", "Shared\UiPath.Shared.Activities.Design\UiPath.Shared.Activities.Design.shproj", "{DF9C43F0-ADD3-4FBF-995E-84B92F9CBF25}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		Shared\UiPath.Shared.Activities\UiPath.Shared.Activities.projitems*{4546856d-ea50-45c6-9419-eeeacb5a80aa}*SharedItemsImports = 13
+		Shared\UiPath.Shared.Activities.Design\UiPath.Shared.Activities.Design.projitems*{d8b95356-2de4-45cc-9067-3629af2b0a64}*SharedItemsImports = 5
+		Shared\UiPath.Shared.Activities.Design\UiPath.Shared.Activities.Design.projitems*{df9c43f0-add3-4fbf-995e-84b92f9cbf25}*SharedItemsImports = 13
+		Shared\UiPath.Shared.Activities\UiPath.Shared.Activities.projitems*{fe7244b4-62b5-4007-ac8a-d1e4d60e50ab}*SharedItemsImports = 5
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84303236-D845-4826-A898-B818BC19F76B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84303236-D845-4826-A898-B818BC19F76B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84303236-D845-4826-A898-B818BC19F76B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84303236-D845-4826-A898-B818BC19F76B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE7244B4-62B5-4007-AC8A-D1E4D60E50AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE7244B4-62B5-4007-AC8A-D1E4D60E50AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE7244B4-62B5-4007-AC8A-D1E4D60E50AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE7244B4-62B5-4007-AC8A-D1E4D60E50AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8B95356-2DE4-45CC-9067-3629AF2B0A64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8B95356-2DE4-45CC-9067-3629AF2B0A64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8B95356-2DE4-45CC-9067-3629AF2B0A64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8B95356-2DE4-45CC-9067-3629AF2B0A64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{84303236-D845-4826-A898-B818BC19F76B} = {1B267FA2-D9D3-4948-BFA4-120D74095080}
+		{FE7244B4-62B5-4007-AC8A-D1E4D60E50AB} = {1B267FA2-D9D3-4948-BFA4-120D74095080}
+		{D8B95356-2DE4-45CC-9067-3629AF2B0A64} = {1B267FA2-D9D3-4948-BFA4-120D74095080}
+		{4546856D-EA50-45C6-9419-EEEACB5A80AA} = {495AB173-2896-4C5E-AABD-B561FA443F1F}
+		{DF9C43F0-ADD3-4FBF-995E-84B92F9CBF25} = {495AB173-2896-4C5E-AABD-B561FA443F1F}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C1775AA-F05E-4058-A2B1-A59493836310}
+	EndGlobalSection
+EndGlobal

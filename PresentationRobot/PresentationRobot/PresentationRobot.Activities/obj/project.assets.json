@@ -1,0 +1,80 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.6.1": {
+      "PresentationRobot/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.6.1",
+        "compile": {
+          "bin/placeholder/PresentationRobot.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PresentationRobot.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PresentationRobot/1.0.0": {
+      "type": "project",
+      "path": "../PresentationRobot/PresentationRobot.csproj",
+      "msbuildProject": "../PresentationRobot/PresentationRobot.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.6.1": [
+      "PresentationRobot >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\manabu.nakamura\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\manabu.nakamura\\source\\repos\\PresentationRobot\\PresentationRobot\\PresentationRobot.Activities\\PresentationRobot.Activities.csproj",
+      "projectName": "PresentationRobot.Activities.Implementation",
+      "projectPath": "C:\\Users\\manabu.nakamura\\source\\repos\\PresentationRobot\\PresentationRobot\\PresentationRobot.Activities\\PresentationRobot.Activities.csproj",
+      "packagesPath": "C:\\Users\\manabu.nakamura\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\manabu.nakamura\\source\\repos\\PresentationRobot\\PresentationRobot\\PresentationRobot.Activities\\obj\\",
+      "projectStyle": "PackageReference",
+      "crossTargeting": true,
+      "configFilePaths": [
+        "C:\\Users\\manabu.nakamura\\source\\repos\\PresentationRobot\\.nuget\\NuGet.Config",
+        "C:\\Users\\manabu.nakamura\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net461"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\RPA\\パッケージ": {},
+        "https://nuget.org/api/v2/": {},
+        "https://www.myget.org/F/uipath/": {}
+      },
+      "frameworks": {
+        "net461": {
+          "targetAlias": "net461",
+          "projectReferences": {
+            "C:\\Users\\manabu.nakamura\\source\\repos\\PresentationRobot\\PresentationRobot\\PresentationRobot\\PresentationRobot.csproj": {
+              "projectPath": "C:\\Users\\manabu.nakamura\\source\\repos\\PresentationRobot\\PresentationRobot\\PresentationRobot\\PresentationRobot.csproj",
+              "privateAssets": "all"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net461": {
+        "targetAlias": "net461",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

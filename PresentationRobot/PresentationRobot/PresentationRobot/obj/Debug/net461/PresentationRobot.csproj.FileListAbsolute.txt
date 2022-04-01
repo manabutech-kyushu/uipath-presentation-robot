@@ -1,0 +1,12 @@
+C:\Users\manabu.nakamura\source\repos\PresentationRobot\PresentationRobot\PresentationRobot\bin\Debug\net461\PresentationRobot.dll
+C:\Users\manabu.nakamura\source\repos\PresentationRobot\PresentationRobot\PresentationRobot\bin\Debug\net461\PresentationRobot.pdb
+C:\Users\manabu.nakamura\source\repos\PresentationRobot\PresentationRobot\PresentationRobot\bin\Debug\net461\PresentationRobot.xml
+C:\Users\manabu.nakamura\source\repos\PresentationRobot\PresentationRobot\PresentationRobot\obj\Debug\net461\PresentationRobot.csproj.AssemblyReference.cache
+C:\Users\manabu.nakamura\source\repos\PresentationRobot\PresentationRobot\PresentationRobot\obj\Debug\net461\PresentationRobot.Properties.Resources.resources
+C:\Users\manabu.nakamura\source\repos\PresentationRobot\PresentationRobot\PresentationRobot\obj\Debug\net461\PresentationRobot.csproj.GenerateResource.cache
+C:\Users\manabu.nakamura\source\repos\PresentationRobot\PresentationRobot\PresentationRobot\obj\Debug\net461\PresentationRobot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manabu.nakamura\source\repos\PresentationRobot\PresentationRobot\PresentationRobot\obj\Debug\net461\PresentationRobot.AssemblyInfoInputs.cache
+C:\Users\manabu.nakamura\source\repos\PresentationRobot\PresentationRobot\PresentationRobot\obj\Debug\net461\PresentationRobot.AssemblyInfo.cs
+C:\Users\manabu.nakamura\source\repos\PresentationRobot\PresentationRobot\PresentationRobot\obj\Debug\net461\PresentationRobot.csproj.CoreCompileInputs.cache
+C:\Users\manabu.nakamura\source\repos\PresentationRobot\PresentationRobot\PresentationRobot\obj\Debug\net461\PresentationRobot.dll
+C:\Users\manabu.nakamura\source\repos\PresentationRobot\PresentationRobot\PresentationRobot\obj\Debug\net461\PresentationRobot.pdb

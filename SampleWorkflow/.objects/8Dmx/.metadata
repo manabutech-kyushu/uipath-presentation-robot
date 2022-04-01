@@ -1,0 +1,12 @@
+﻿{
+  "Id": "8Dmx8ZPqy060Pu3p01PLlw",
+  "Reference": "aVd5N-6mR0mIS1P-cDueMw/8Dmx8ZPqy060Pu3p01PLlw",
+  "Name": "IE: Rpa Challenge",
+  "Type": "App",
+  "Created": "2022-04-01T02:21:10.8444988Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.10.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-01T02:21:10.8444988Z"
+}

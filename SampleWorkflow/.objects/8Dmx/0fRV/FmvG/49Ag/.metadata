@@ -1,0 +1,14 @@
+﻿{
+  "Id": "49AgREG5SEamUwiChUeOTw",
+  "Reference": "aVd5N-6mR0mIS1P-cDueMw/49AgREG5SEamUwiChUeOTw",
+  "ParentRef": "aVd5N-6mR0mIS1P-cDueMw/FmvGL8pIIE20AlDLe_2uMg",
+  "Name": "開始",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2022-04-01T02:21:12.0369154Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.10.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-01T02:21:12.0369154Z"
+}

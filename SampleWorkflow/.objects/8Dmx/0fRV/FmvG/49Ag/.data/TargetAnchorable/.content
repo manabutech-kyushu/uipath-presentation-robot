@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://www.rpachallenge.com/?lang=JA" ContentHash="z0relXFEAk2ggmjsa-sm4A" DesignTimeRectangle="16, 856, 441, 81" ElementType="Button" FriendlyName="'開始'" FullSelectorArgument="&lt;webctrl tag='BUTTON' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='BUTTON' type='submit' aaname='開始' check:text='開始' /&gt;" Guid="1901d838-3061-48fb-9371-7a10e9f31301" ScopeSelectorArgument="&lt;html title='Rpa Challenge' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0l950pqSL-UaayidkZ3U39w</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="3081c4fffbfb1e6a68e683130843eef8.png" xmlns="">0s_3jkpuu7kajbvjk6Wr1mg</imageRef>
+</TargetAnchorable>

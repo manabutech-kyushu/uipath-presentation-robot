@@ -1,0 +1,16 @@
+C:\Users\manabu.nakamura\source\repos\PresentationRobot\PresentationRobot\PresentationRobot.Activities\bin\Debug\net461\PresentationRobot.Activities.dll
+C:\Users\manabu.nakamura\source\repos\PresentationRobot\PresentationRobot\PresentationRobot.Activities\bin\Debug\net461\PresentationRobot.Activities.pdb
+C:\Users\manabu.nakamura\source\repos\PresentationRobot\PresentationRobot\PresentationRobot.Activities\bin\Debug\net461\PresentationRobot.Activities.xml
+C:\Users\manabu.nakamura\source\repos\PresentationRobot\PresentationRobot\PresentationRobot.Activities\bin\Debug\net461\PresentationRobot.dll
+C:\Users\manabu.nakamura\source\repos\PresentationRobot\PresentationRobot\PresentationRobot.Activities\bin\Debug\net461\PresentationRobot.pdb
+C:\Users\manabu.nakamura\source\repos\PresentationRobot\PresentationRobot\PresentationRobot.Activities\bin\Debug\net461\PresentationRobot.xml
+C:\Users\manabu.nakamura\source\repos\PresentationRobot\PresentationRobot\PresentationRobot.Activities\obj\Debug\net461\PresentationRobot.Activities.csproj.AssemblyReference.cache
+C:\Users\manabu.nakamura\source\repos\PresentationRobot\PresentationRobot\PresentationRobot.Activities\obj\Debug\net461\PresentationRobot.Activities.Properties.Resources.resources
+C:\Users\manabu.nakamura\source\repos\PresentationRobot\PresentationRobot\PresentationRobot.Activities\obj\Debug\net461\PresentationRobot.Activities.csproj.GenerateResource.cache
+C:\Users\manabu.nakamura\source\repos\PresentationRobot\PresentationRobot\PresentationRobot.Activities\obj\Debug\net461\PresentationRobot.Activities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manabu.nakamura\source\repos\PresentationRobot\PresentationRobot\PresentationRobot.Activities\obj\Debug\net461\PresentationRobot.Activities.AssemblyInfoInputs.cache
+C:\Users\manabu.nakamura\source\repos\PresentationRobot\PresentationRobot\PresentationRobot.Activities\obj\Debug\net461\PresentationRobot.Activities.AssemblyInfo.cs
+C:\Users\manabu.nakamura\source\repos\PresentationRobot\PresentationRobot\PresentationRobot.Activities\obj\Debug\net461\PresentationRobot.Activities.csproj.CoreCompileInputs.cache
+C:\Users\manabu.nakamura\source\repos\PresentationRobot\PresentationRobot\PresentationRobot.Activities\obj\Debug\net461\PresentationRobot.Activities.csproj.CopyComplete
+C:\Users\manabu.nakamura\source\repos\PresentationRobot\PresentationRobot\PresentationRobot.Activities\obj\Debug\net461\PresentationRobot.Activities.dll
+C:\Users\manabu.nakamura\source\repos\PresentationRobot\PresentationRobot\PresentationRobot.Activities\obj\Debug\net461\PresentationRobot.Activities.pdb

@@ -1,0 +1,407 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PresentationRobot.Activities</name>
+    </assembly>
+    <members>
+        <member name="P:PresentationRobot.Activities.DisplayMessage.ContinueOnError">
+            <summary>
+            If set, continue executing the remaining activities even if the current activity has failed.
+            </summary>
+        </member>
+        <member name="T:PresentationRobot.Activities.Properties.Resources">
+            <summary>
+              ローカライズされた文字列などを検索するための、厳密に型指定されたリソース クラスです。
+            </summary>
+        </member>
+        <member name="P:PresentationRobot.Activities.Properties.Resources.ResourceManager">
+            <summary>
+              このクラスで使用されているキャッシュされた ResourceManager インスタンスを返します。
+            </summary>
+        </member>
+        <member name="P:PresentationRobot.Activities.Properties.Resources.Culture">
+            <summary>
+              すべてについて、現在のスレッドの CurrentUICulture プロパティをオーバーライドします
+              現在のスレッドの CurrentUICulture プロパティをオーバーライドします。
+            </summary>
+        </member>
+        <member name="P:PresentationRobot.Activities.Properties.Resources.Authentication_Category">
+            <summary>
+              Authentication に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:PresentationRobot.Activities.Properties.Resources.Common_Category">
+            <summary>
+              Common に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:PresentationRobot.Activities.Properties.Resources.ContinueOnError_Description">
+            <summary>
+              If set, continue executing the remaining activities even if the current activity has failed. に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:PresentationRobot.Activities.Properties.Resources.ContinueOnError_DisplayName">
+            <summary>
+              ContinueOnError に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:PresentationRobot.Activities.Properties.Resources.DisplayMessage_BackgroundColor_Description">
+            <summary>
+               に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:PresentationRobot.Activities.Properties.Resources.DisplayMessage_BackgroundColor_DisplayName">
+            <summary>
+              BackgroundColor に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:PresentationRobot.Activities.Properties.Resources.DisplayMessage_BackgroundOpacity_Description">
+            <summary>
+               に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:PresentationRobot.Activities.Properties.Resources.DisplayMessage_BackgroundOpacity_DisplayName">
+            <summary>
+              BackgroundOpacity に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:PresentationRobot.Activities.Properties.Resources.DisplayMessage_Description">
+            <summary>
+              display messages while runnunig the process に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:PresentationRobot.Activities.Properties.Resources.DisplayMessage_DisplayName">
+            <summary>
+              DisplayMessage に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:PresentationRobot.Activities.Properties.Resources.DisplayMessage_FontSize_Description">
+            <summary>
+               に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:PresentationRobot.Activities.Properties.Resources.DisplayMessage_FontSize_DisplayName">
+            <summary>
+              FontSize に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:PresentationRobot.Activities.Properties.Resources.DisplayMessage_Image_Description">
+            <summary>
+               に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:PresentationRobot.Activities.Properties.Resources.DisplayMessage_Image_DisplayName">
+            <summary>
+              Image に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:PresentationRobot.Activities.Properties.Resources.DisplayMessage_IsFullWidth_Description">
+            <summary>
+               に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:PresentationRobot.Activities.Properties.Resources.DisplayMessage_IsFullWidth_DisplayName">
+            <summary>
+              IsFullWidth に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:PresentationRobot.Activities.Properties.Resources.DisplayMessage_Message_Description">
+            <summary>
+               に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:PresentationRobot.Activities.Properties.Resources.DisplayMessage_Message_DisplayName">
+            <summary>
+              Message に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:PresentationRobot.Activities.Properties.Resources.DisplayMessage_Position_Description">
+            <summary>
+               に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:PresentationRobot.Activities.Properties.Resources.DisplayMessage_Position_DisplayName">
+            <summary>
+              Position に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:PresentationRobot.Activities.Properties.Resources.DisplayMessage_TextColor_Description">
+            <summary>
+               に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:PresentationRobot.Activities.Properties.Resources.DisplayMessage_TextColor_DisplayName">
+            <summary>
+              TextColor に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:PresentationRobot.Activities.Properties.Resources.Do">
+            <summary>
+              Do に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:PresentationRobot.Activities.Properties.Resources.Flying_Robot">
+            <summary>
+              型 System.Drawing.Bitmap のローカライズされたリソースを検索します。
+            </summary>
+        </member>
+        <member name="P:PresentationRobot.Activities.Properties.Resources.Input_Category">
+            <summary>
+              Input に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:PresentationRobot.Activities.Properties.Resources.Listening_Robot">
+            <summary>
+              型 System.Drawing.Bitmap のローカライズされたリソースを検索します。
+            </summary>
+        </member>
+        <member name="P:PresentationRobot.Activities.Properties.Resources.Options_Category">
+            <summary>
+              Options に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:PresentationRobot.Activities.Properties.Resources.Output_Category">
+            <summary>
+              Output に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:PresentationRobot.Activities.Properties.Resources.Processing_Robot">
+            <summary>
+              型 System.Drawing.Bitmap のローカライズされたリソースを検索します。
+            </summary>
+        </member>
+        <member name="P:PresentationRobot.Activities.Properties.Resources.Receiving_Robot">
+            <summary>
+              型 System.Drawing.Bitmap のローカライズされたリソースを検索します。
+            </summary>
+        </member>
+        <member name="P:PresentationRobot.Activities.Properties.Resources.Recorder_Robot">
+            <summary>
+              型 System.Drawing.Bitmap のローカライズされたリソースを検索します。
+            </summary>
+        </member>
+        <member name="P:PresentationRobot.Activities.Properties.Resources.Searching_Robot">
+            <summary>
+              型 System.Drawing.Bitmap のローカライズされたリソースを検索します。
+            </summary>
+        </member>
+        <member name="P:PresentationRobot.Activities.Properties.Resources.Timeout_Description">
+            <summary>
+              Specifies the amount of time (in milliseconds) to wait for the activity to run before an error is thrown. The default value is 60000 (1 minute). に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:PresentationRobot.Activities.Properties.Resources.Timeout_DisplayName">
+            <summary>
+              Timeout (milliseconds) に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:PresentationRobot.Activities.Properties.Resources.Timeout_Error">
+            <summary>
+              The activity timed out and was canceled. に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:PresentationRobot.Activities.Properties.Resources.ValidationExclusiveProperties_Error">
+            <summary>
+              Please provide a value either for {0} or {1}, but not both. に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:PresentationRobot.Activities.Properties.Resources.ValidationOverloadGroup_Error">
+            <summary>
+              Please provide values for both {0} and {1}. に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:PresentationRobot.Activities.Properties.Resources.ValidationScope_Error">
+            <summary>
+              Cannot be used outside of a {0}. に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="P:PresentationRobot.Activities.Properties.Resources.ValidationValue_Error">
+            <summary>
+              Please provide a value for {0}. に類似しているローカライズされた文字列を検索します。
+            </summary>
+        </member>
+        <member name="T:UiPath.Shared.Activities.Contracts.IBaseChildActivity">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:UiPath.Shared.Activities.Contracts.IBaseChildActivity.GetFromContext``1(System.Activities.ActivityContext,System.String)">
+            <summary>
+            Gets the services container. This stores the authenticated clients
+            </summary>
+            <param name="context">The context.</param>
+            <param name="propertyName"></param>
+            
+            <returns></returns>
+        </member>
+        <member name="M:UiPath.Shared.Activities.Contracts.IBaseChildActivity.GetFromUserState``1(System.Activities.AsyncCodeActivityContext)">
+            <summary>
+            
+            </summary>
+            <typeparam name="T"></typeparam>
+            <param name="context"></param>
+            <returns></returns>
+        </member>
+        <member name="M:UiPath.Shared.Activities.Contracts.IBaseChildActivity.SetToUserState``1(System.Activities.AsyncCodeActivityContext,``0)">
+            <summary>
+            
+            </summary>
+            <typeparam name="T"></typeparam>
+            <param name="context"></param>
+            <param name="value"></param>
+            <returns></returns>
+        </member>
+        <member name="M:UiPath.Shared.Activities.Contracts.BaseChildActivity.GetFromUserState``1(System.Activities.AsyncCodeActivityContext)">
+            <summary>
+            Get object from context.UserState object. 
+            According to documentation, this is the place to store object for multithreaded access
+            </summary>
+        </member>
+        <member name="M:UiPath.Shared.Activities.Contracts.BaseChildActivity.SetToUserState``1(System.Activities.AsyncCodeActivityContext,``0)">
+            <summary>
+            Set context.UserState to desired value
+            </summary>
+            <typeparam name="U"></typeparam>
+            <param name="context"></param>
+            <param name="value"></param>
+        </member>
+        <member name="M:UiPath.Shared.Activities.Contracts.BaseChildActivity.GetFromContext``1(System.Activities.ActivityContext,System.String)">
+            <summary>
+            Get object from Context properties
+            </summary>
+            <param name="context"></param>
+            <param name="propertyName"></param>
+            <returns></returns>
+        </member>
+        <member name="T:UiPath.Shared.Activities.IObjectContainer">
+            <summary>
+            A simple container for objects meant to be shared accross the application space.
+            </summary>
+        </member>
+        <member name="M:UiPath.Shared.Activities.IObjectContainer.Add``1(``0)">
+            <summary>
+            Stores a reference to an object.
+            </summary>
+            <typeparam name="T"></typeparam>
+            <param name="objectToAdd"></param>
+        </member>
+        <member name="M:UiPath.Shared.Activities.IObjectContainer.Get``1">
+            <summary>
+            Gets the object.
+            </summary>
+            <typeparam name="T"></typeparam>
+            <returns></returns>
+        </member>
+        <member name="M:UiPath.Shared.Activities.IObjectContainer.Where(System.Func{System.Object,System.Boolean})">
+            <summary>
+            
+            </summary>
+            <param name="filter"></param>
+            <returns></returns>
+        </member>
+        <member name="M:UiPath.Shared.Activities.IObjectContainer.Remove``1">
+            <summary>
+            
+            </summary>
+            <typeparam name="T"></typeparam>
+        </member>
+        <member name="M:UiPath.Shared.Activities.IObjectContainer.Contains``1">
+            <summary>
+            Determines whether this instance contains the object.
+            </summary>
+            <typeparam name="T"></typeparam>
+            <returns>
+              <c>true</c> if this instance contains object; otherwise, <c>false</c>.
+            </returns>
+        </member>
+        <member name="M:UiPath.Shared.Activities.IObjectContainer.Clear">
+            <summary>
+            Clears this instance.
+            </summary>
+        </member>
+        <member name="T:UiPath.Shared.Activities.Utilities.ChildActivityExtensions">
+            <summary>Provides the standard functionality across activities.</summary>
+        </member>
+        <member name="M:UiPath.Shared.Activities.Utilities.ChildActivityExtensions.GetFromUserState``1(System.Activities.AsyncCodeActivityContext)">
+            <summary>
+            Get object from context.UserState object. 
+            According to documentation, this is the place to store object for multithreaded access
+            </summary>
+        </member>
+        <member name="M:UiPath.Shared.Activities.Utilities.ChildActivityExtensions.SetToUserState``1(System.Activities.AsyncCodeActivityContext,``0)">
+            <summary>
+            Set context.UserState to desired value
+            </summary>
+            <typeparam name="U"></typeparam>
+            <param name="context"></param>
+            <param name="value"></param>
+        </member>
+        <member name="M:UiPath.Shared.Activities.Utilities.ChildActivityExtensions.GetFromContext``1(System.Activities.ActivityContext,System.String)">
+            <summary>
+            Get object from Context properties
+            </summary>
+            <param name="context"></param>
+            <param name="propertyName"></param>
+            <returns></returns>
+        </member>
+        <member name="T:UiPath.Shared.Activities.ObjectContainer">
+            <summary>
+            A simple container for objects meant to be shared accross the application space.
+            </summary>
+        </member>
+        <member name="F:UiPath.Shared.Activities.ObjectContainer._objectHolder">
+            <summary>
+            Gets the object holder.
+            </summary>
+            <value>
+            The object holder.
+            </value>
+        </member>
+        <member name="M:UiPath.Shared.Activities.ObjectContainer.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:UiPath.Shared.Activities.ObjectContainer"/> class.
+            </summary>
+        </member>
+        <member name="M:UiPath.Shared.Activities.ObjectContainer.Add``1(``0)">
+            <summary>
+            Stores a reference to a object.
+            </summary>
+            <typeparam name="T"></typeparam>
+            <param name="object"></param>
+        </member>
+        <member name="M:UiPath.Shared.Activities.ObjectContainer.Get``1">
+            <summary>
+            Gets the object.
+            </summary>
+            <typeparam name="T"></typeparam>
+            <returns></returns>
+        </member>
+        <member name="M:UiPath.Shared.Activities.ObjectContainer.Where(System.Func{System.Object,System.Boolean})">
+            <summary>
+            
+            </summary>
+            <param name="filter"></param>
+            <returns></returns>
+        </member>
+        <member name="M:UiPath.Shared.Activities.ObjectContainer.Remove``1">
+            <summary>
+            Remove a object from the container
+            </summary>
+            <typeparam name="T"></typeparam>
+        </member>
+        <member name="M:UiPath.Shared.Activities.ObjectContainer.Contains``1">
+            <summary>
+            Determines whether this instance contains the object.
+            </summary>
+            <typeparam name="T"></typeparam>
+            <returns>
+              <c>true</c> if this instance contains object; otherwise, <c>false</c>.
+            </returns>
+        </member>
+        <member name="M:UiPath.Shared.Activities.ObjectContainer.Clear">
+            <summary>
+            Clears this instance.
+            </summary>
+        </member>
+    </members>
+</doc>
